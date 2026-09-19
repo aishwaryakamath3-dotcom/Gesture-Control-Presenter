@@ -192,7 +192,9 @@ This project helps students understand:
 
 ---
 
-# 📸 Demo Idea
+## 🎥 Demo
+
+[▶️ Watch the Gesture Control Presenter Demo](https://drive.google.com/file/d/1kkZ8yiRdPPoRRVqTdpR_xyLX70wKkYVU/view?usp=sharing)
 
 Use this project during:
 
